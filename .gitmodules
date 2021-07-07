@@ -1,0 +1,6 @@
+[submodule "client-side"]
+	path = client-side
+	url = https://github.com/alissonbit/viichan-client-side.git
+[submodule "server-side"]
+	path = server-side
+	url = https://github.com/alissonbit/viichan-server-side.git
